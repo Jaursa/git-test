@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("hot-fix git4");
         System.out.println("push test");
         System.out.println("pull test");
+        //强制更新
 
     }
 }
